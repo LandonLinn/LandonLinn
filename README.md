@@ -9,7 +9,7 @@ I build scalable, user-focused web apps and SaaS projects while growing my skill
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LandonLinn&theme=github-dark&hide_border=true)
 
 ---
@@ -41,7 +41,7 @@ I build scalable, user-focused web apps and SaaS projects while growing my skill
 
 ---
 
-## 🔨 Current Focus
+## 👀 Current Focus
 - Building portfolio + Linnium projects
 - Studying AWS & full-stack architecture
 - Freelancing
@@ -49,7 +49,7 @@ I build scalable, user-focused web apps and SaaS projects while growing my skill
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/landon-linn  
 - Portfolio: https://www.landonlinn.com/projects  
 - GitHub: https://github.com/LandonLinn  
