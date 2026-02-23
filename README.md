@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hey, I'm Landon Linn 👋
 
-<!--
-**LandonLinn/LandonLinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 UT Knoxville Information Sciences (UXD) Alum  
+💻 Full-Stack Developer | React • Node • MongoDB • AWS
+🚀 Founder of Linnium
 
-Here are some ideas to get you started:
+I build scalable, user-focused web apps and SaaS projects while growing my skills in full-stack development, UX design, and cloud deployment.
+![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandonLinn&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonLinn&layout=compact&theme=github_dark&hide_border=true)
+![](https://komarev.com/ghpvc/?username=LandonLinn&color=blue&style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LandonLinn&theme=github-dark&hide_border=true)
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-000000?style=for-the-badge&logo=adobecreativecloud)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+
+---
+
+## 🔨 Current Focus
+- Building portfolio + Linnium projects
+- Studying AWS & full-stack architecture
+- Freelancing
+- Improving DSA & system design skills
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/landon-linn  
+- Portfolio: https://www.landonlinn.com/projects  
+- GitHub: https://github.com/LandonLinn  
+- Email: LandonLinn1@gmail.com
