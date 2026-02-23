@@ -21,7 +21,7 @@ I build scalable, user-focused web apps and SaaS projects while growing my skill
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 
 ### Backend
