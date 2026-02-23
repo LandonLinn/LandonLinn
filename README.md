@@ -1,8 +1,8 @@
 # Hey, I'm Landon Linn 👋
 
-- 🎓 UT Knoxville Information Sciences (UXD) Alum  
-- 💻 Full-Stack Developer | React • Node • MongoDB • AWS
-- 🚀 Founder of Linnium
+<p>🎓 UT Knoxville Information Sciences (UXD) Alum  </p>
+<p>💻 Full-Stack Developer | React • Node • MongoDB • AWS</p>
+<p>🚀 Founder of Linnium</p>
 
 I build scalable, user-focused web apps and SaaS projects while growing my skills in full-stack development, UX design, and cloud deployment.
 ![](https://komarev.com/ghpvc/?username=LandonLinn&label=Profile%20Views&color=0A66C2&style=for-the-badge)
