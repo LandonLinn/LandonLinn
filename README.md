@@ -33,7 +33,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma)
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_CC-000000?style=for-the-badge&logo=adobecreativecloud)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws)
 
 ---
 
