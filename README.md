@@ -5,9 +5,7 @@
 🚀 Founder of Linnium
 
 I build scalable, user-focused web apps and SaaS projects while growing my skills in full-stack development, UX design, and cloud deployment.
-![Landon's GitHub stats](https://github-readme-stats.vercel.app/api?username=LandonLinn&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonLinn&layout=compact&theme=github_dark&hide_border=true)
-![](https://komarev.com/ghpvc/?username=LandonLinn&color=blue&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=LandonLinn&label=Profile%20Views&color=0A66C2&style=for-the-badge)
 
 ---
 
