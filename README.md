@@ -1,4 +1,4 @@
-# Hey, I'm Landon Linn 👋
+# 👋 Hey, I'm Landon Linn
 
 <p>🎓 UT Knoxville Information Sciences (UXD) Alum  </p>
 <p>💻 Full-Stack Developer | React • Node • MongoDB • AWS</p>
