@@ -9,11 +9,6 @@ I build scalable, user-focused web apps and SaaS projects while growing my skill
 
 ---
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LandonLinn&theme=github-dark&hide_border=true)
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
