@@ -63,12 +63,3 @@ and a sharp eye for user experience.
 - Open to collaborating on interesting front-end or full-stack projects
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Landon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LandonLinn&show_icons=true&hide_border=true&title_color=1A56DB&icon_color=1A56DB&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=LandonLinn&hide_border=true&ring=1A56DB&fire=1A56DB&currStreakLabel=1A56DB)
-
-</div>
