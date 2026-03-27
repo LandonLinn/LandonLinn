@@ -64,5 +64,4 @@ backend systems with clean architecture and a sharp eye for user experience.
 - Building full-stack Java + Spring Boot applications with PostgreSQL
 - Integrating AI capabilities with Spring AI and Anthropic API
 - Daily Java practice labs — pushing to GitHub every day
-- Deepening TypeScript and system design knowledge
 - Open to collaborating on full-stack or backend projects
