@@ -64,7 +64,7 @@ I build fast, scalable web applications with a focus on performance, clean archi
 
 ## 📌 Current Focus
 
-- Building full-stack applications with **Java + Spring Boot + PostgreSQL**
+- Building full-stack applications
 - Integrating AI workflows into production-ready applications
 - Strengthening backend system design and API architecture
 - Exploring advanced AWS deployment and scaling patterns
